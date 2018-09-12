@@ -28,6 +28,7 @@
   Create the **MyDocuments \ SQL_reports** folder. Plan must be added to this file. 
   The maintenance process is logged in an extended way. you can check the results in the generated log file.
   
-###Implementation
+### Implementation
 1. **Creation of database**
+![image](file:///C:\Users\XTreme.ws\Desktop\BDC_LabsCreation_Database.png)
   
