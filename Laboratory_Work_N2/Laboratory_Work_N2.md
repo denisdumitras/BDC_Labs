@@ -65,6 +65,10 @@
 
 ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/Reports.PNG)
 
+10. **Reports file**
+
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/Reports1.PNG)
 
 ### Conclusion
 
