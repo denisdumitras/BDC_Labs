@@ -1,4 +1,4 @@
- ## Databases Laboratory Work #2
+ ## Databases Laboratory Work Nr.2
 
 ## Database Creation and Maintenance Tools
 
