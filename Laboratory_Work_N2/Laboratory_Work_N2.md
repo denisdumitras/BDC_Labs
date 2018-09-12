@@ -30,5 +30,45 @@
   
 ### Implementation
 1. **Creation of database**
-![image](file:///C:\Users\XTreme.ws\Desktop\BDC_LabsCreation_Database.png)
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/Creation_Database.PNG)
+
+2. **Autogrowth**
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/Autogrowth.PNG)
+
+3. **Creation of Filegroup**
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/NewFileGroup.PNG)
+
+4. **MaintenancePlan**
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/MaintenancePlan.PNG)
+
+5. **Schedule of maintenance plan**
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/MaintenancePlan_Schedule.PNG)
+
+6. **Databases**
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/Databases.PNG)
+
+7. **Event logs**
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/EventLogs.PNG)
+
+8. **Log file**
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/LogFile.PNG)
+
+9. **Reports**
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/Reports.PNG)
+
+
+### Conclusion
+
+During this laboratory work I obtained skills to operate with SQL Server. Starting with double-connection to the server (Windows, SQL), creating the database, configure the database, granting rights , creating a maintenance plan. Also I have learned about principles of creation of database in SQL Management Studio.   
+Version of SQL Server is very important on configurating level of database , I advice to not use the latest version of SQL Server.
+
   
