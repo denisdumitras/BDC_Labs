@@ -58,4 +58,5 @@
  
  ### Conclusion
  
- In this laboratory work I have obtained new skills to work with Management Studio and more exactly working with tables and records , manipulate with fields( adding, deleting, rename and update). I have learned more about data types in SQL and how correctly use them for storing the data. Also, I have learned about constraints, Primary Key , Foreign Key , Unique and what are differences between them.
+   In this laboratory work I have obtained new skills to work with Management Studio and more exactly working with tables and records , manipulate with fields( adding, deleting, rename and update). I have learned more about data types in SQL and how correctly use them for storing the data. Also, I have learned about constraints, Primary Key , Foreign Key , Unique and what are differences between them.
+   What is the purpose of the contraints for databases? So, contraints are the properties and rules for creating database that can be aplied to the coloumn, table for storing the data in the sure manner. Data must protect itself.
