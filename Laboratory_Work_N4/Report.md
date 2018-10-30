@@ -79,7 +79,7 @@ after joining *studenti_reusita* and *discipline* based on *Id_Disciplina* .
 ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N4/Screens/Ex.24.PNG) 
 
 ### Observation:
- - I have solved more than 3 tasks in order to better understanding how to write queries
+ - I have solved more than 3 tasks in order to better understanding how to write queries. (24 queries)
 
 ### Conclusion: 
    In this laboratory work I obtained skills operatig with queries(T-SQL language). In this database I had some tables which are linked between them with
