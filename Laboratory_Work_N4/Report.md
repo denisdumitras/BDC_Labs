@@ -67,6 +67,21 @@ Having the Id_Student and NrOfGrades from *studenti_reusita* we should perform t
 In this task I have counted distinct number of discplines and selected the Id_Profesor. So , we need the Name and Surname of Professors
 for this condition I should perform an join between *studenti_reusita* and *profesori* based on *Id_Profesor* attribut.
 
-![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N4/Screens/Ex22.PNG) 
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N4/Screens/Ex.22.PNG) 
 
 **Task 24**
+
+For obtaining result on this task I have created more than one select for making little bit easy processing the data through tables. 
+In first select I have obtained the *Id_Disciplina* and NrOfProfessors from *studenti_reusita* and storing to table1. Second, I put 
+condition in where clause and select those Disciplines that have more than 1 professors. Last select for displaying the Disciplines
+after joining *studenti_reusita* and *discipline* based on *Id_Disciplina* .
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N4/Screens/Ex.24.PNG) 
+
+### Observation:
+ - I have solved more than 3 tasks in order to better understanding how to write queries
+ \
+ \
+### Conclusion: 
+   In this laboratory work I obtained skills operatig with queries. In this database I had some tables which are linked between them with
+keys, for getting information from them. So, I understood better the purpose of the primari keys in projection of database: provide quicker search , integrity of data is maintained. 
