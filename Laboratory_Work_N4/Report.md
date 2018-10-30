@@ -80,8 +80,8 @@ after joining *studenti_reusita* and *discipline* based on *Id_Disciplina* .
 
 ### Observation:
  - I have solved more than 3 tasks in order to better understanding how to write queries
- \
- \
+
 ### Conclusion: 
-   In this laboratory work I obtained skills operatig with queries. In this database I had some tables which are linked between them with
-keys, for getting information from them. So, I understood better the purpose of the primari keys in projection of database: provide quicker search , integrity of data is maintained. 
+   In this laboratory work I obtained skills operatig with queries(T-SQL language). In this database I had some tables which are linked between them with
+keys, for getting information from them. So, I understood better the purpose of the primari keys in projection of database: provide quicker search , integrity of data is maintained.  
+For organizing and easy orientation through tables I used Database Diagram which helped me to see very quickly what coloumns are in  each table. Also, multiple joins and subqueries are little bit different according to performance, because when we have a small database joins work quick , big data base subqueries a more efficcient. All subqueries can be written usinng the where clause.
