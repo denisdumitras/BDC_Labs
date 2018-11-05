@@ -26,3 +26,8 @@ Database , using IF-ELSE statement. To use variables.
 
 ### Implementation:
 **Task 1**  
+
+For solving this task I have read the documentation and understood how work with IF-ELSE statement. So, in this task I have to determine 
+the biggest number from 3 given numbers. I solved this example with IF-ELSE, checking between them with <,>,= symbols.
+
+![](
