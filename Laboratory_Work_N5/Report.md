@@ -35,7 +35,9 @@ the biggest number from 3 given numbers. I solved this example with IF-ELSE, che
 **Task2**
 
 In this example I tried to solve with IF-ELSE , but it was too hard or something is wrong with this example. I solved this with SQL Query
-operating with couple of joins and 'AND' for setting conditions. First, I displayed all of students with all type of grades. After, I put the conditions given in the example 'Grade<>6 AND Grade <>8'.
+operating with couple of joins and 'AND' for setting conditions. First, I displayed all of students with all type of grades. After, I put the conditions given in the example 'Grade<>6 AND Grade <>8'. According to the condition we should write our own interpretation for this example , so I chose to use the ternary operator iif.
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N5/Screens/Task2.PNG) 
 
 ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N5/Screens/Task2_1.PNG) 
 
@@ -52,6 +54,8 @@ Another feature of operating with statements in T-SQL is CASE - goes through con
 In this task I have modified the operation in setting the variables for getting an error as result, multiplication with division. So, for getting an error I put division by 0 which should obtain an error. Also , I included here TRY-CATCH Block and display system error, ERROR_LINE AND ERROR_NUMBER. For some personalized error we can use RAISERROR.
 
  ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N5/Screens/Task4.PNG)
+ 
+ ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N5/Screens/Task4_1.PNG) 
  
  
  **Conclusion**
