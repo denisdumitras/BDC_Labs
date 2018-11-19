@@ -82,4 +82,45 @@ Adresa_1, Adresa_2.
 
 For performing this task I have used the update T-SQL instruction and for setting the new value i have used set instruction.
 
-![](
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task1.PNG) 
+
+**Task 2** 
+
+Using Alter table option I have set the new constraint to 'grupe' table , column 'Cod_Grupa' and I agve name for find easier this, 'set_unique'. The contraint that I have set is 'Unique'.
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task2.PNG) 
+
+**Task 3** 
+
+For performing this task , first I have used 'Alter table' option for adding new two columns which are 'Sef_grupa' and 'Indrumator'
+both of them of INT type. So, for the given task in a point I tried to use the SELECT instruction , but it is huge ones and looks like
+ambiguos. In this way , I found the notion Cursor which means it is  because in sub query we can fetch record row by row so we use cursor to fetch records. Also, I have declared some variables for storing in them data for inserting the needed value. So , I declared the cursor(a pointer), selected the Ids from grupe , stored them in the @gid variable and asign to the Students which are NOT IN the
+Null section, group by Id_Student and order by the mark in desceding order. Also, for b item I have counted the Number of hours and
+ordered desceding and if they are more than one I have chose who has the minimum Id_Profesor according to the task.
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task3.PNG)  
+
+**Task 4** 
+
+For this task I alse have used the Update option and set instruction. 
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task4.PNG) 
+
+**Task 5** 
+
+For this task I have read some additional information about T-SQL instructions of operating with strings. So, I have found about
+processing strings and solving my tasks the following functions : substring() and charindex(). Substring function extract characters from string at the given position. Charindex searches for one character expression inside a second character expression, returning the starting position of the first expression if found. Also, to reduce the code and to increase performance I have used the ternary operator for takind into account the both cases, IIF operator. So, operating with this functions I have performed the task and inserting the information in the given order and set the Clustered Index for performing search easier.
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task5.PNG) 
+
+**Task 6** 
+
+In this task I have created the 'orarul' table with constrains like 'DEFAULT' and inserting the data in the table. 
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task6.PNG) 
+
+**Task 7** 
+
+In this task I have to populate the 'orarul' table with some information about 'INF171' group. According to the task I have used the select T-SQL instruction with joining and aliases.
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task7.PNG) 
