@@ -124,3 +124,8 @@ In this task I have created the 'orarul' table with constrains like 'DEFAULT' an
 In this task I have to populate the 'orarul' table with some information about 'INF171' group. According to the task I have used the select T-SQL instruction with joining and aliases.
 
 ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task7.PNG) 
+
+**Task 8**
+For getting a easier and optimized way of searching we should in this task to create indexes on tables of database. Also , this indexes will help not only for searchin , but also for maintaining the database. So , for performing this given task I used 'ALTER' option for checking if such a group file exist , if not create one. I set the size and the path. I don't know if this way will help for searching process and I added only one index , nonclustered for one table. For making sure that it was added I used special command 'sysindexes'.
+
+![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task8.PNG) 
