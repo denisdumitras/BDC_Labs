@@ -129,3 +129,8 @@ In this task I have to populate the 'orarul' table with some information about '
 For getting a easier and optimized way of searching we should in this task to create indexes on tables of database. Also , this indexes will help not only for searchin , but also for maintaining the database. So , for performing this given task I used 'ALTER' option for checking if such a group file exist , if not create one. I set the size and the path. I don't know if this way will help for searching process and I added only one index , nonclustered for one table. For making sure that it was added I used special command 'sysindexes'.
 
 ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N6/Screens/Task8.PNG) 
+
+
+**Conclusion:** 
+
+In this laboratory work I obtained skills operating with tables and idexes and what are purpose for indexing. Also, I find out about some new options in Transact SQL which works like a pointer to the table and select the needed one. Declare cursor, Open cursor, Fetch row (separate fetches may be executed for multiple rows) and Close cursor , "FETCH". Moreover , I learned how change the information in table without deleting it and creating again, which is "UPDATE" and "SET". Operating with indexes I can point out some observations about them: it makes easy search with select query, but takes additional space from the disk and I can say that they should be created only when is needed.
