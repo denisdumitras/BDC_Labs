@@ -29,3 +29,9 @@
  6. Consider an orieted graph like the one in the figure below and should be passed the way from node id = 3 to node id = 0. Make the orieted graph represetation under recursive table-expresion form. Observe the instruction after UNION ALL of the recursiv member, as well as the part before UNION ALL, represented by the hook-member. 
  
  
+ ### Implementation of tasks: 
+ 
+ **Task 1**
+ 
+ 
+ 
