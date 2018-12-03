@@ -59,4 +59,6 @@
  
  ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task6.PNG) 
  
- **Conclusion :**
+ **Conclusion :** 
+ 
+ In this laboratory work I obtained skills operating with Views and properties of them. Also , I found out the notion and purpose of the Schemabinding option which means a level of security based on views and schemas and how it secure the data from the table or view. Another obtained skill in this laboratory work was recursion of table expressions and how to pass an oriented graph.
