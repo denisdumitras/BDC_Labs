@@ -32,6 +32,10 @@
  ### Implementation of tasks: 
  
  **Task 1**
+ https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task1_1.PNG 
  
+ **Task 2** 
+ 
+ https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task1_1.PNG
  
  
