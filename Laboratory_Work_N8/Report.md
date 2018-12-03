@@ -32,10 +32,31 @@
  ### Implementation of tasks: 
  
  **Task 1**
- https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task1_1.PNG 
+ ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task1_1.PNG)
+ 
+ ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task1_2.PNG) 
  
  **Task 2** 
  
- https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task1_1.PNG
+ ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task2.PNG) 
+ 
+ **Task 3** 
  
  
+ ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task3.PNG) 
+ 
+ **Task 4** 
+ 
+ ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task4.PNG) 
+ 
+ **Task 5** 
+ 
+ ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task5_1.PNG) 
+ 
+ ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task5_2.PNG) 
+ 
+ **Task 6** 
+ 
+ ![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N8/Screens/Task6.PNG) 
+ 
+ **Conclusion :**
